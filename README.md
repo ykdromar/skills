@@ -5,6 +5,8 @@ This repository stores reusable skills for AI agents. Each skill lives in its ow
 ## Skills
 
 - [Organized Changes](organized-changes/SKILL.md) — make project changes in clear, reviewable feature branches and work units.
+- [Classify Code Changes](classify-code-changes/SKILL.md) — classify proposed or implemented changes as critical or non-critical and explain developer review needs.
+- [Review Code Changes](review-code-changes/SKILL.md) — review code diffs, report evidence-based findings, and route critical or architectural changes for developer review.
 
 ## Organization
 
